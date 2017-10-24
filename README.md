@@ -1,2 +1,2 @@
-# Stats-Infer
-Applications of Statistical Inference Methods
+# MLAlg
+Implementations of Machine Learning Algorithms
